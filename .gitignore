@@ -21,6 +21,7 @@ Thumbs.db
 
 # Dependency lock files (optional; keep only one of the two)
 package-lock.json
+package.json
 # yarn.lock
 
 # Build / temp files
